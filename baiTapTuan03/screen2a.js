@@ -1,6 +1,6 @@
 import React from "react";
-import { View, Text, TouchableOpacity } from "react-native";
-import { TextInput } from "react-native-paper";
+import { View, Text, TouchableOpacity, TextInput } from "react-native";
+
 import {} from "@expo/vector-icons";
 
 export default function screen_2a() {

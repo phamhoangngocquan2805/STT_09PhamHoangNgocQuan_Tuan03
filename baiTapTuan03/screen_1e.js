@@ -1,6 +1,6 @@
 // import React from "react";
-// import { View, Text, TouchableOpacity } from "react-native";
-// import { Checkbox, TextInput } from "react-native-paper";
+// import { View, Text, TouchableOpacity, Checkbox, TextInput } from "react-native";
+
 
 // export default function screen_1e() {
 //   const [checked, setChecked] = React.useState(false);
